@@ -9,8 +9,4 @@ public class Config {
 	static long COOLDOWN_AFTER_CATCH = 4000;
 
 	static long MAX_TIME_TO_FISH_SECONDS = 15;
-	
-	static int HEIGHT_OF_BARS_IN_BOTTOM = 300; //minimum value 100
-	
-	static int CROP_FROM_SIDES = 50;
 }

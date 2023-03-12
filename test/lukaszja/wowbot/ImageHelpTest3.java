@@ -35,9 +35,7 @@ import org.opencv.highgui.HighGui;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 
-import lukaszja.wowbot.tests.FishFinder;
-import lukaszja.wowbot.tests.FloatFinder;
-import lukaszja.wowbot.tests.FloatFinder.FoundFloatInfo;
+import lukaszja.wowbot.FloatFinder.FoundFloatInfo;
 
 import org.junit.jupiter.api.BeforeAll;
 

@@ -1,4 +1,4 @@
-package lukaszja.wowbot.tests;
+package lukaszja.wowbot;
 
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
@@ -15,8 +15,7 @@ import org.opencv.core.Rect;
 import org.opencv.core.Scalar;
 import org.opencv.imgproc.Imgproc;
 
-import lukaszja.wowbot.Utils;
-import lukaszja.wowbot.tests.FloatFinder.FoundFloatInfo;
+import lukaszja.wowbot.FloatFinder.FoundFloatInfo;
 
 public class FloatFinder {
 

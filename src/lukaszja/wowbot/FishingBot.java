@@ -12,9 +12,6 @@ import java.time.temporal.ChronoUnit;
 
 import org.opencv.core.Mat;
 
-import lukaszja.wowbot.tests.FishFinder;
-import lukaszja.wowbot.tests.FloatFinder;
-
 public class FishingBot {
 
 	FishingSession fishingSession;
@@ -24,7 +21,7 @@ public class FishingBot {
 	
 	void start() throws Exception {
 		delayStartIfNeeded();
-		System.out.println("Starting fishing.");
+		log("Starting fishing.");
 		
 		robot = new Robot();
 		fishingSession = new FishingSession();

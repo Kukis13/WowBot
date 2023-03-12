@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 
 import org.opencv.core.Mat;
 
-import lukaszja.wowbot.tests.FloatFinder.FoundFloatInfo;
+import lukaszja.wowbot.FloatFinder.FoundFloatInfo;
 
 public class FishingSession {
 

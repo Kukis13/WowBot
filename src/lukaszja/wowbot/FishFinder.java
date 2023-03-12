@@ -1,11 +1,9 @@
-package lukaszja.wowbot.tests;
+package lukaszja.wowbot;
 
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.core.Rect;
 import org.opencv.imgproc.Imgproc;
-
-import lukaszja.wowbot.Utils;
 
 public class FishFinder {
 	
